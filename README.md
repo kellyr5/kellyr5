@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou a Kelly 👋
 
-<!--
-**kellyr5/kellyr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na UNIFEI, com foco em desenvolvimento backend, análise de dados e IA generativa.
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🎓 Ciência da Computação — UNIFEI (2023–2027)
+- 💻 Backend com Python, Django e SQL
+- 🤖 Estudando IA generativa: LLMs, RAG e agentes
+- 📊 Análise de dados e dashboards com Power BI
+- 🔎 Aberta a oportunidades de estágio em tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em destaque
+- [Plataforma Acadêmica UNIFEI](https://github.com/kellyr5/plataforma-unifei) — TCC: fórum acadêmico e voluntariado universitário
+- [Fórum Acadêmico UNIFEI](https://github.com/kellyr5/forum-academico-unifei) — projeto de Engenharia de Software
+- [Pelada Fácil](https://github.com/kellyr5/site-peladaFacil) — plataforma multiesportiva com gamificação
+- [Zona Azul Digital](https://github.com/kellyr5/zona-azul-front) — front-end de estacionamento digital
+
+### Stack
+Python · Django · Java · C++ · JavaScript · SQL · PostgreSQL · Power BI · Docker · Git
+
+### Contato
+- LinkedIn: linkedin.com/in/kelly-reis5
+- Email: kelly.l.reis@gmail.com
